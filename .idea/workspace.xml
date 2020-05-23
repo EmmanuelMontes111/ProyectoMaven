@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff4e59ac-fe70-4456-a216-5f4265baf4fc" name="Default Changelist" comment="" />
+    <list default="true" id="ff4e59ac-fe70-4456-a216-5f4265baf4fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1byqM1NXXp51qLrpS7VV5Bh6ISK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,7 +40,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -62,14 +70,51 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1598" y="0" key="#Project_Structure" timestamp="1589614649015">
-      <screen x="1366" y="0" width="1280" height="680" />
+    <state x="1598" y="-116" key="#Project_Structure" timestamp="1590016609431">
+      <screen x="1366" y="-116" width="1280" height="680" />
     </state>
+    <state x="1598" y="-116" key="#Project_Structure/0.0.1366.728/1366.-116.1280.680@1366.-116.1280.680" timestamp="1590016609431" />
     <state x="1598" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1589614649015" />
-    <state x="150" y="0" key="SettingsEditor" timestamp="1589615499815">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590218210101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.-116.1280.680@0.0.1366.728" timestamp="1590218210101" />
+    <state x="448" y="102" key="FileChooserDialogImpl" timestamp="1590187639663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="102" key="FileChooserDialogImpl/0.0.1366.728/1366.-116.1280.680@0.0.1366.728" timestamp="1590187639663" />
+    <state x="1786" y="-21" key="FileChooserDialogImpl/0.0.1366.728/1366.-116.1280.680@1366.-116.1280.680" timestamp="1590015601254" />
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom" timestamp="1590251158956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-116.1280.680@0.0.1366.728" timestamp="1590251158956" />
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1589617526352" />
+    <state width="1323" height="196" key="GridCell.Tab.0.center" timestamp="1590251158956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.center/0.0.1366.728/1366.-116.1280.680@0.0.1366.728" timestamp="1590251158956" />
+    <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1589617526351" />
+    <state width="1323" height="196" key="GridCell.Tab.0.left" timestamp="1590251158956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.left/0.0.1366.728/1366.-116.1280.680@0.0.1366.728" timestamp="1590251158956" />
+    <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1589617526351" />
+    <state width="1323" height="196" key="GridCell.Tab.0.right" timestamp="1590251158956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.right/0.0.1366.728/1366.-116.1280.680@0.0.1366.728" timestamp="1590251158956" />
+    <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1589617526351" />
+    <state x="150" y="0" key="SettingsEditor" timestamp="1590187646685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="150" y="0" key="SettingsEditor/0.0.1366.728/1366.-116.1280.680@0.0.1366.728" timestamp="1590187646685" />
+    <state x="1507" y="-116" key="SettingsEditor/0.0.1366.728/1366.-116.1280.680@1366.-116.1280.680" timestamp="1589836055888" />
     <state x="150" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1589615499815" />
     <state x="1507" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1589615207860" />
+    <state x="359" y="176" key="com.intellij.ide.util.TipDialog" timestamp="1590218180507">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="176" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-116.1280.680@0.0.1366.728" timestamp="1590218180507" />
+    <state x="1702" y="48" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-116.1280.680@1366.-116.1280.680" timestamp="1590186505923" />
   </component>
 </project>
